@@ -84,3 +84,11 @@ python 01_binary_classification.py
 python 02_multiclass_classification.py
 
 python 03_multilabel_classification.py
+
+## Dokumentasi Git Push dan Pull
+
+Pada repository ini digunakan Git untuk mengelola perubahan file.
+
+Git Pull digunakan untuk mengambil perubahan terbaru dari repository GitHub ke komputer lokal.
+
+Git Push digunakan untuk mengirim perubahan yang telah dilakukan di komputer lokal ke repository GitHub.
