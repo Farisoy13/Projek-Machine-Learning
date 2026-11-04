@@ -92,3 +92,6 @@ Pada repository ini digunakan Git untuk mengelola perubahan file.
 Git Pull digunakan untuk mengambil perubahan terbaru dari repository GitHub ke komputer lokal.
 
 Git Push digunakan untuk mengirim perubahan yang telah dilakukan di komputer lokal ke repository GitHub.
+## Dokumentasi Git Push dan Pull
+Git Pull digunakan untuk mengambil perubahan terbaru dari GitHub ke komputer lokal.
+Git Push digunakan untuk mengirim perubahan dari komputer lokal ke GitHub.
